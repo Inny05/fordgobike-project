@@ -9,24 +9,12 @@
 
 ## Summary of Findings
 
-> Customers travel the same duration regardles of the day of the week.
+> Customers travel the same duration regardles the day of the week. Only subscribers can bike share on all trips, with over 90% of the trips taken by subscribers and 90% of the trips were not bike sharing for only trips. We have the most trips on weekdays, with the most number of rides on Thurdays, which accounts for 19.3% of the trips and the most number of trips between 8am-9am and 4pm -5pm. Fewer number of trips were taken on weekends,  which are Saturday 8.2% and Sunday 8.3%. 
+There are less bike rides on the weekends and more bike rides during the week.
 
-> Only subscribers share bike on the trip.
-
-> Over 90% of the trips were by subscribers.
-
-> 90% of the trips were not bike sharing for only trips.
-
-> We have the most trips on weekdays and fewer number of trips on weekend.
-
-> During the weekdays, we have the most number of rides on Thurdays and the the least on Saturdays and Sundays.
-
-> We have the most number of trips between 8am-9am and 4pm -5pm.
 
 
 ## Key Insights for Presentation
 
-> Over 70 percent of the users are males.
-> 90.5% of users are subscribers and 9.5% are customers.
-> The highest number of rides were recorded on Thurday and the least number of rides were recorded on Saturday and Sunday, 8.2% and 8.3% respectively.
-> The most number of bike usage was recorded at 8am-9am and 5pm-6pm. 
+> For this presentation, I chose to focus on the relationship between, the days of the week, the duration of the trips and the bike sharing option.
+The most rides recorded on Thursdays and the least recorded on Saturdays and Sundays.  Non-bike sharing trips had the most number of trips everyday of the week and bike sharers had fewer number of trips. The longest duration of trips were taken by those who opted to bike sharing everyday of the week and shorter trips were recorded by non-bike sharers, but recorded longer durations during the weekends.
