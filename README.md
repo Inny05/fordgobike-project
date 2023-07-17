@@ -1,5 +1,5 @@
 # (Ford GoBikes Data Analysis)
-## by (Iniobong Nwa)
+## By (Iniobong Nwa)
 
 
 ## FordGoBikes Sysytem Data Exploration
